@@ -5,7 +5,7 @@ interface User {
 
 const user: User = {
   id: 1,
-  name: "John Doe",
+  name: "Mahir Minhaj KKKKK~",
 };
 
 export { user };
